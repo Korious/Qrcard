@@ -4,4 +4,5 @@
 3. A
 
 Frontend mentor link https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
-Published Link
+
+Published Link https://korious.github.io/Qrcard/
